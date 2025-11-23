@@ -1,7 +1,8 @@
 
 镜像：ghcr.io/mengxianbo/clawcloud:3712
 
-节点路径：
+
+手搓节点路径：
 
 /vless-argo?ed=2560
 
