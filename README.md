@@ -20,11 +20,6 @@
 | FILE_PATH | 否 | ./tmp | 运行目录 |
 | SUB_PATH | 否 | sub | 订阅路径 |
 
-## 🌐 订阅地址
-
-- 标准端口：`https://your-domain.com/sub`
-- 非标端口：`http://your-domain.com:port/sub`
-
 ---
 
 ## 赞助
