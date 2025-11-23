@@ -1,4 +1,6 @@
 
+镜像：ghcr.io/mengxianbo/clawcloud:3712
+
 ## 📋 环境变量
 
 | 变量名 | 是否必须 | 默认值 | 说明 |
