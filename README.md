@@ -1,6 +1,14 @@
 
 镜像：ghcr.io/mengxianbo/clawcloud:3712
 
+节点路径：
+
+/vless-argo?ed=2560
+
+/vmess-argo?ed=2560
+
+/trojan-argo?ed=2560
+
 ## 📋 环境变量
 
 | 变量名 | 是否必须 | 默认值 | 说明 |
