@@ -1,8 +1,8 @@
 
-##镜像：ghcr.io/mengxianbo/clawcloud:3712
+##  镜像：ghcr.io/mengxianbo/clawcloud:3712
 
 
-##手搓节点路径：
+##  手搓节点路径：
 
 /vless-argo?ed=2560
 
@@ -10,7 +10,7 @@
 
 /trojan-argo?ed=2560
 
-##必须添加的变量：
+##  必须添加的变量：
 
 UUID=
 
