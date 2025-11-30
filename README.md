@@ -10,6 +10,7 @@
 /trojan-argo?ed=2560    
 
 必须添加的变量：
+
 UUID=
 
 ARGO_DOMAIN=
